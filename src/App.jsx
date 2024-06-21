@@ -12,7 +12,7 @@ function App() {
   return (
 
     <>
-<Navbar ></Navbar>
+<Navbar></Navbar>
 <Hero></Hero>
 <Headlinecard></Headlinecard>
 <Food></Food>
